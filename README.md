@@ -96,13 +96,13 @@ These are all the videos for our prior versions.
 | | Prior Releases | |
 |:-:|:-:|:-:|
 |[![poster for v15][v15-img]][v15-vid]|[![poster for v14][v14-img]][v14-vid]|[![poster for v12][v12-img]][v12-vid]|
-|v15|v14|v12|
+|v.15|v.14|v.12|
 |[![poster for v11][v11-img]][v11-vid]|[![poster for v10][v10-img]][v10-vid]|[![poster for v9][v9-img]][v9-vid]|
-|v11|v10|v9|
+|v.11|v.10|v.9|
 |[![poster for v8][v8-img]][v8-vid]|[![poster for v7][v7-img]][v7-vid]|[![poster for v6][v6-img]][v6-vid]|
-|v8|v7|v6|
+|v.8|v.7|v.6|
 | |[![poster for v5][v5-img]][v5-vid]| |
-| |v5| |
+| |.v5| |
 
 </center>
 
