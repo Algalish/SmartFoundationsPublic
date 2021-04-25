@@ -66,7 +66,7 @@ Our button layout is:
 | __Scroll Wheel__ | any key | increases or decreases the key selected |
 | __U__ | must be held + scroll | increase/decrease steps up/down |
 | __T__ | must be held + scroll | increase/decrease swirl left/right |
-| __E__ | must be held + scroll | increase/decrease elevation up/down |
+| __L__ | must be held + scroll | increase/decrease levitation up/down |
 | __P__ | must be held + scroll | increase/decrease spacing between items |
 | __H__ | toggle | lock building position to inspect |
 | __M__ | toggle | toggle settings screen |
@@ -78,7 +78,7 @@ Our button layout is:
 Smart! has had quite a few videos made for it, and we're incredibly appreciative of it! Let's start out with a nice overview video for v0.16.
 <center>
 
-[![poster for v0.16][v0.16-img]][v0.16-vid]
+[![poster for v16][v16-img]][v16-vid]
 </center>
 
 We also have an amazing in-depth review by [Magenty](https://www.youtube.com/channel/UCL8hC7X4mpAKdoP5gwdKkBQ). Check it out!
@@ -95,14 +95,14 @@ These are all the videos for our prior versions.
 
 | | Prior Releases | |
 |:-:|:-:|:-:|
-|[![poster for v0.15][v0.15-img]][v0.15-vid]|[![poster for v0.14][v0.14-img]][v0.14-vid]|[![poster for v0.12][v0.12-img]][v0.12-vid]|
-|v0.15|v0.14|v0.12|
-|[![poster for v0.11][v0.11-img]][v0.11-vid]|[![poster for v0.10][v0.10-img]][v0.10-vid]|[![poster for v0.9][v0.9-img]][v0.9-vid]|
-|v0.11|v0.10|v0.9|
-|[![poster for v0.8][v0.8-img]][v0.8-vid]|[![poster for v0.7][v0.7-img]][v0.7-vid]|[![poster for v0.6][v0.6-img]][v0.6-vid]|
-|v0.8|v0.7|v0.6|
-| |[![poster for v0.5][v0.5-img]][v0.5-vid]| |
-| |v0.5| |
+|[![poster for v15][v15-img]][v15-vid]|[![poster for v14][v14-img]][v14-vid]|[![poster for v12][v12-img]][v12-vid]|
+|v15|v14|v12|
+|[![poster for v11][v11-img]][v11-vid]|[![poster for v10][v10-img]][v10-vid]|[![poster for v9][v9-img]][v9-vid]|
+|v11|v10|v9|
+|[![poster for v8][v8-img]][v8-vid]|[![poster for v7][v7-img]][v7-vid]|[![poster for v6][v6-img]][v6-vid]|
+|v8|v7|v6|
+| |[![poster for v5][v5-img]][v5-vid]| |
+| |v5| |
 
 </center>
 
@@ -133,38 +133,38 @@ Smart! is a passion project, and we're glad to be able to share it with the worl
 [foundations]: https://media.giphy.com/media/1J5fZI3iihdCT49PSM/giphy.gif
 [buildings]: https://media.giphy.com/media/toIlPfgLfvbINAwsJf/giphy.gif
 
-[v0.16-img]: https://i.ibb.co/pJfhJR2/Preview-Template-Small.jpg
-[v0.16-vid]: https://youtu.be/MmkfqByx0i0
+[v16-img]: https://i.ibb.co/pJfhJR2/Preview-Template-Small.jpg
+[v16-vid]: https://youtu.be/MmkfqByx0i0
 
-[v0.15-img]: https://i.ibb.co/mb2WJNz/Preview-Template-Small.jpg
-[v0.15-vid]: https://youtu.be/jxfJR3ullJI
+[v15-img]: https://i.ibb.co/mb2WJNz/Preview-Template-Small.jpg
+[v15-vid]: https://youtu.be/jxfJR3ullJI
 
-[v0.14-img]: https://i.ibb.co/jGG28hx/Preview-Small.jpg
-[v0.14-vid]: https://youtu.be/-HbCKSABeWE
+[v14-img]: https://i.ibb.co/jGG28hx/Preview-Small.jpg
+[v14-vid]: https://youtu.be/-HbCKSABeWE
 
-[v0.12-img]: https://i.ibb.co/vXXDVst/v-12-small.jpg
-[v0.12-vid]: https://youtu.be/thC8RvniApQ
+[v12-img]: https://i.ibb.co/vXXDVst/v-12-small.jpg
+[v12-vid]: https://youtu.be/thC8RvniApQ
 
-[v0.11-img]: https://i.ibb.co/WcNB78B/V-11-small.jpg
-[v0.11-vid]: https://youtu.be/5qE3G4KbJXM
+[v11-img]: https://i.ibb.co/WcNB78B/V-11-small.jpg
+[v11-vid]: https://youtu.be/5qE3G4KbJXM
 
-[v0.10-img]: https://i.ibb.co/C1n8b1j/V-10-small.jpg
-[v0.10-vid]: https://youtu.be/ejINdaaRQtU
+[v10-img]: https://i.ibb.co/C1n8b1j/V-10-small.jpg
+[v10-vid]: https://youtu.be/ejINdaaRQtU
 
-[v0.9-img]: https://i.ibb.co/5k6vD83/V-9-small.jpg
-[v0.9-vid]: https://youtu.be/UQVYEl7d9Tg
+[v9-img]: https://i.ibb.co/5k6vD83/V-9-small.jpg
+[v9-vid]: https://youtu.be/UQVYEl7d9Tg
 
-[v0.8-img]: https://i.ibb.co/0GYmQz3/V-8-small.jpg
-[v0.8-vid]: https://youtu.be/4H0Bbzhq1_E
+[v8-img]: https://i.ibb.co/0GYmQz3/V-8-small.jpg
+[v8-vid]: https://youtu.be/4H0Bbzhq1_E
 
-[v0.7-img]: https://i.ibb.co/mTT1PhY/V7-small.jpg
-[v0.7-vid]: https://youtu.be/BQqahJcdKfM
+[v7-img]: https://i.ibb.co/mTT1PhY/V7-small.jpg
+[v7-vid]: https://youtu.be/BQqahJcdKfM
 
-[v0.6-img]: https://i.ibb.co/P6GkWqB/V6-small.jpg
-[v0.6-vid]: https://youtu.be/8_H7TJvwJC4
+[v6-img]: https://i.ibb.co/P6GkWqB/V6-small.jpg
+[v6-vid]: https://youtu.be/8_H7TJvwJC4
 
-[v0.5-img]: https://i.ibb.co/YRSdCwk/V5-small.jpg
-[v0.5-vid]: https://youtu.be/qnLOsYsZOXg
+[v5-img]: https://i.ibb.co/YRSdCwk/V5-small.jpg
+[v5-vid]: https://youtu.be/qnLOsYsZOXg
 
 [review-img]: https://i.ibb.co/C0kXBGy/Magnety-Review-Previe.jpg
 [review-vid]: https://youtu.be/O7jHpKhhqaY
