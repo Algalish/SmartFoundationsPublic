@@ -17,6 +17,9 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
+**Screenshot of the mod's configuration**
+Please add a screenshot with the settings screen so that we could understand better what is going on.
+
 **Screenshots/videos**
 If applicable, add screenshots/videos to help explain your problem.
 
