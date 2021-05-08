@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: Please post any feature-requests on discord as described below
+title: "[STOP!!!] Please post any feature-requests on discord as described below"
 labels: ''
 assignees: ''
 
