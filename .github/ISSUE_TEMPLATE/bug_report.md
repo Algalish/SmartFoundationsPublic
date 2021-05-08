@@ -20,9 +20,12 @@ Steps to reproduce the behavior:
 **Screenshots/videos**
 If applicable, add screenshots/videos to help explain your problem.
 
-**Desktop (please complete the following information):**
- - Branch of the game: [e.g. Early Access, Experimental]
- - Version of the game [e.g. Epic, Steam]
+**(please complete the following information):**
+ - Game Branch: [e.g. Early Access, Experimental]
+ - Game Type [e.g. Epic, Steam]
+ - Game Version [e.g. CL135567]
+ - Mod Type [e.g. Public, Patreon ]
+ - Mod Version [e.g. 16.1 ]
  - SMM/SML Version [e.g. 3.1 ]
 
 **Additional context**
