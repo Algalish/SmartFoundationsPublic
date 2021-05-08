@@ -1,13 +1,13 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: Please post any feature-requests on discord as described below
 labels: ''
 assignees: ''
 
 ---
 
-**This issue tracker is for issues(errors/bugs) only.**
+This issue tracker is for issues(errors/bugs) only.
 
 Please suggest new features in discord and keep track of open feature-requests there. Then either me or community manager will put it into a special channel where people could vote with "thumbs ups".
 
