@@ -15,7 +15,7 @@
 </center>
 
 
-![multiplayer](https://raw.githubusercontent.com/deantendo/community/master/com_mp_no.png)
+![multiplayer](https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.png)
 
 ## Latest Version Support
 
@@ -28,11 +28,11 @@ Working Features:
   * basic foundation and wall laying
   * basic building laying
   * auto-connect and auto-recipe
+  * multiplayer
 
 In Progress:
 
   * Everything else
-  * multiplayer
 
 ## Introduction
 
