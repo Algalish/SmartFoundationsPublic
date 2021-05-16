@@ -81,6 +81,10 @@ Smart! has had quite a few videos made for it, and we're incredibly appreciative
 [![poster for v16][v16-img]][v16-vid]
 </center>
 
+Check out the mod review by the big man himself : [Kibitz](https://www.youtube.com/channel/UCz9qw5nupdzCGwHwQiqs7qA)
+[![poster for kibitz review][kibitz-review-img]][kibitz-review-vid]
+
+
 We also have an amazing in-depth review by [Magenty](https://www.youtube.com/channel/UCL8hC7X4mpAKdoP5gwdKkBQ). Check it out!
 <center>
 
@@ -168,4 +172,8 @@ Smart! is a passion project, and we're glad to be able to share it with the worl
 
 [review-img]: https://i.ibb.co/C0kXBGy/Magnety-Review-Previe.jpg
 [review-vid]: https://youtu.be/O7jHpKhhqaY
+
+[review-img]: https://i.ibb.co/C0kXBGy/Magnety-Review-Previe.jpg
+[review-vid]: https://youtu.be/JSL6kSgzYJk
+
 
