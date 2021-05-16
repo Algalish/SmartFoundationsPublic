@@ -106,7 +106,7 @@ The ultimate upgrade to your roads and logistics. [Check out X3 Roads on SML](ht
 
 ## Support Smart!
 
-Smart! is a passion project, and we're glad to be able to share it with the world! If you like what we've done, please become a [patron!][pgash]
+Smart! is a passion project, and we're glad to be able to share it with the world! If you like what we've done, please become a [patron!][pgash] or send some DOGE our way : D8Y882m31LhcrgQaQEctJab9hSYRxWE3gz
 
 <center>
 
