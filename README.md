@@ -1,38 +1,8 @@
+## 🚀 #DOGE TO THE MOON 🚀 
+
 # Smart!
 
-<center>
-
-![poster for buildings][buildings]
-
-</center>
-
-<center>
-
-|||
-|:-:|:-:|
-|![poster for belts][belts]|![poster for foundations][foundations]|
-
-</center>
-
-
 ![multiplayer](https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.png)
-
-## Latest Version Support
-
-As we work to update Smart! to be compatible with the latest version of Satisfactory we will post regular updates to our [patreon!][pgash]. We also have a Discord offered as a perk of becoming a [patron][pgash]. More granular updates and test builds can be had in the server, come join us!
-
-### Current Status
-
-Working Features:
-
-  * basic foundation and wall laying
-  * basic building laying
-  * auto-connect and auto-recipe
-  * multiplayer
-
-In Progress:
-
-  * Everything else
 
 ## Introduction
 
@@ -73,22 +43,34 @@ Our button layout is:
 
 </center>
 
+## Known-bugs
+* __Auto-connecting poles with belts may crash so please save the game and reload it after you built those long belts and before pushing items to there.__
+* __On Epic settings are not saved/loaded but on Steam it works__
+
+## The Team
+**Deantendo** created the amazing mod icon <br>
+**HWEEKS** wrote this description <br>
+**GraniteOverworld** is a Community Manager and the head moderator on the discord server <br>
+**r3plica** is a Moderator on the discord server <br>
+**Tample IV** is a Moderator on the discord server <br>
+
+
+
+## Thanks
+Huge thx to **Marcio** for all his help from the beginning of my path as mod creator, **TwoTwoEleven** for his awesome code examples from MM, to **Archengius** for his fine example of overriding the default buildings and to **Mircea** for some fine thoughts. Thx **jay96** for your amazing idea about arrows.
+
+
 ## Videos
 
-Smart! has had quite a few videos made for it, and we're incredibly appreciative of it! Let's start out with a nice overview video for v0.16.
-<center>
+Smart! has had quite a few videos made for it, and we're incredibly appreciative of it! Let's start out with a nice overview video for V.16
 
+<center>
+ 
 [![poster for v16][v16-img]][v16-vid]
-</center>
 
-Check out the mod review by the big man himself : [Kibitz](https://www.youtube.com/channel/UCz9qw5nupdzCGwHwQiqs7qA)
-[![poster for kibitz review][kibitz-review-img]][kibitz-review-vid]
-
-
-We also have an amazing in-depth review by [Magenty](https://www.youtube.com/channel/UCL8hC7X4mpAKdoP5gwdKkBQ). Check it out!
-<center>
-
-[![poster for review][review-img]][review-vid]
+|Check out the mod review by the man himself : [ImKibitz](https://www.youtube.com/channel/UCz9qw5nupdzCGwHwQiqs7qA) |We also have an amazing in-depth review by [Magenty](https://www.youtube.com/channel/UCL8hC7X4mpAKdoP5gwdKkBQ). Check it out! | [TotalXclipse](https://www.youtube.com/channel/UC2SNK_S7tvROHS_KJdIiEFg) was the first one to make a review for the mod! Its a slightly outdated but still covers core mod's principles |
+|:-:|:-:|:-:|
+|[![kibitz poster for review][kibitz-review-img]][kibitz-review-vid]|[![magnety poster for review][magnety-review-img]][magnety-review-vid]|[![TotalXclipse poster for review][TotalXclipse-review-img]][TotalXclipse-review-vid]|
 </center>
 
 ### Prior Releases
@@ -170,10 +152,14 @@ Smart! is a passion project, and we're glad to be able to share it with the worl
 [v5-img]: https://i.ibb.co/YRSdCwk/V5-small.jpg
 [v5-vid]: https://youtu.be/qnLOsYsZOXg
 
-[review-img]: https://i.ibb.co/C0kXBGy/Magnety-Review-Previe.jpg
-[review-vid]: https://youtu.be/O7jHpKhhqaY
+[magnety-review-img]: https://raw.githubusercontent.com/Algalish/SmartIssueTracker/master/img/magnety_review_preview.jpg
+[magnety-review-vid]: https://youtu.be/O7jHpKhhqaY
 
-[review-img]: https://i.ibb.co/C0kXBGy/Magnety-Review-Previe.jpg
-[review-vid]: https://youtu.be/JSL6kSgzYJk
+[kibitz-review-img]: https://raw.githubusercontent.com/Algalish/SmartIssueTracker/master/img/kibitz_review_preview.jpg
+[kibitz-review-vid]: https://youtu.be/JSL6kSgzYJk
+
+[TotalXclipse-review-img]: https://raw.githubusercontent.com/Algalish/SmartIssueTracker/master/img/TotalXclipse_review_preview.jpg
+[TotalXclipse-review-vid]: https://youtu.be/wIfhqBxiufk
+
 
 
