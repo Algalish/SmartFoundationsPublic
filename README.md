@@ -47,6 +47,9 @@ Our button layout is:
 * __Auto-connecting poles with belts may crash so please save the game and reload it after you built those long belts and before pushing items to there.__
 * __On Epic settings are not saved/loaded but on Steam it works__
 
+## Discord server
+We are excited to announce the grand opening of Smart! discord server: https://discord.gg/mUKAb9Br
+
 ## The Team
 **Deantendo** created the amazing mod icon <br>
 **HWEEKS** wrote this description <br>
