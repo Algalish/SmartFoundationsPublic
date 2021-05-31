@@ -43,12 +43,23 @@ Our button layout is:
 
 </center>
 
+## Controls Video Tutorials
+<center>
+
+| | |
+|:-:|:-:|
+|<video controls="" width="360" height="150"><source src=https://i.imgur.com/kKcQDdc.mp4 type="video/mp4"></video>|<video controls="" width="360" height="150"><source src=https://i.imgur.com/OUynNnJ.mp4 type="video/mp4"></video>|
+|Twirl (T)|Spacing (P)|
+
+</center>
+
+
 ## Known-bugs
 * __Auto-connecting poles with belts may crash so please save the game and reload it after you built those long belts and before pushing items to there.__
 * __On Epic settings are not saved/loaded but on Steam it works__
 
 ## Discord server
-We are excited to announce the grand opening of Smart! discord server: https://discord.gg/mUKAb9Br
+We are excited to announce the grand opening of Smart! discord server: https://discord.gg/SgXY4CwXYw
 
 ## The Team
 **Deantendo** created the amazing mod icon <br>
@@ -75,6 +86,7 @@ Smart! has had quite a few videos made for it, and we're incredibly appreciative
 |:-:|:-:|:-:|
 |[![kibitz poster for review][kibitz-review-img]][kibitz-review-vid]|[![magnety poster for review][magnety-review-img]][magnety-review-vid]|[![TotalXclipse poster for review][TotalXclipse-review-img]][TotalXclipse-review-vid]|
 </center>
+
 
 ### Prior Releases
 
@@ -163,6 +175,8 @@ Smart! is a passion project, and we're glad to be able to share it with the worl
 
 [TotalXclipse-review-img]: https://raw.githubusercontent.com/Algalish/SmartIssueTracker/master/img/TotalXclipse_review_preview.jpg
 [TotalXclipse-review-vid]: https://youtu.be/wIfhqBxiufk
+
+[FunctionVid-P]: https://i.imgur.com/OUynNnJ.mp4
 
 
 
