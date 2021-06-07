@@ -43,15 +43,10 @@ Our button layout is:
 
 </center>
 
-## Controls Video Tutorials
-<center>
-
 | | |
 |:-:|:-:|
-|<video controls="" width="360" height="150"><source src=https://i.imgur.com/kKcQDdc.mp4 type="video/mp4"></video>|<video controls="" width="360" height="150"><source src=https://i.imgur.com/OUynNnJ.mp4 type="video/mp4"></video>|
+|[![Twirl](https://res.cloudinary.com/marcomontalbano/image/upload/v1623100863/video_to_markdown/images/video--84e5c0ec2b8de94158b5b57595358242-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://i.imgur.com/kKcQDdc.mp4 "Twirl")|[![Spacing](https://res.cloudinary.com/marcomontalbano/image/upload/v1623101130/video_to_markdown/images/video--56634d571078a7b0bf2ea7578c515b0f-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://i.imgur.com/OUynNnJ.mp4 "Spacing")|
 |Twirl (T)|Spacing (P)|
-
-</center>
 
 
 ## Known-bugs
